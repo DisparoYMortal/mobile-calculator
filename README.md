@@ -1,6 +1,6 @@
 # 📱 Mobile Calculator (PyQt6)
 
-A sleek, modern, mobile-inspired scientific calculator built with Python and PyQt6. Designed with a custom translucent UI that integrates seamlessly with Linux window compositors (like **Hyprland**, **Sway**, or **Wayland** in general) as well as **Windows**.
+A sleek, modern, mobile-inspired scientific calculator built with Python and PyQt6. Designed with a custom translucent UI that integrates seamlessly with Linux window compositors (like **Hyprland**, **Sway**, or **Wayland** in general).
 
 ---
 
@@ -35,17 +35,9 @@ You can completely redefine the look and feel of the calculator without modifyin
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/tu-usuario/mobile-calculator.git](https://github.com/tu-usuario/mobile-calculator.git)
+   git clone [https://github.com/DisparoYMortal/mobile-calculator.git](https://github.com/DisparoYMortal/mobile-calculator.git)
    cd mobile-calculator
 
-
-
-
-pip install -r requirements.txt
-
-
-
-python main.py
 
 
 
