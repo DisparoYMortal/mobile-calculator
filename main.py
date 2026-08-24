@@ -194,7 +194,7 @@ class AdvancedCalculator(QWidget):
                              .replace('π', 'math.pi').replace('√', 'math.sqrt')
                              .replace('sin', 'math.sin').replace('cos', 'math.cos')
                              .replace('tan', 'math.tan').replace('log', 'math.log10')
-                             .replace('ln', 'math.log').replace('x²', '**2'))
+                             .replace('ln', 'math.log').replace('²', '**2'))
                 
                 result = eval(expr_eval)
                 
